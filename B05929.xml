@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sorrowful maiden for the want of Tocher-good. To an excellent old tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05929</idno>
+            <idno type="STC">Wing S4716A</idno>
+            <idno type="STC">ESTC R184488</idno>
+            <idno type="EEBO-CITATION">52614958</idno>
+            <idno type="OCLC">ocm 52614958</idno>
+            <idno type="VID">176195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176195)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2764:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sorrowful maiden for the want of Tocher-good. To an excellent old tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Scotland :</pubPlace>
+                  <date>ca. 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by National Library of Scotland.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, Scots --  17th century.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:176195:1"/>
+            <!-- PDF PAGE 20 -->
+            <head>The SORROWFUL MAIDEN For the want of <hi>TOCHER-GOOD.</hi>
+            </head>
+            <opener>To <hi>an Excellent Old Tune.</hi>
+            </opener>
+            <lg>
+               <l>THus lurking as alone I lay,</l>
+               <l>where there was no Repair,</l>
+               <l>A Maid before me on the way,</l>
+               <l>I heard a Greeting fair:</l>
+               <l>Her Moan was loud, it mov'd the Air,</l>
+               <l>to hear her ſtill I ſtood,</l>
+               <l>She was lamenting evermair,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>for fault of Tocher good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Her roaring Cryes outragious,</l>
+               <l>with d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iery Words amain;</l>
+               <l>Her ſtormy Speech and rigorous,</l>
+               <l>as ſhe her ſelf had ſlain:</l>
+               <l>The Tears that from her Eyes ſore ran</l>
+               <l>her Pain it multiply'd;</l>
+               <l>For wanting of a Love ſo long</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>for fault of Tocher-good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Who'll pity me, ſuppoſe, I pance,</l>
+               <l>ſhe ſays, unto this Pine ?</l>
+               <l>I'm reſt indeed of Wit and Senſe,</l>
+               <l>that I rage in my Mind.</l>
+               <l>Becauſe that I do ly alone,</l>
+               <l>and Company's ſo good;</l>
+               <l>I am in point, alas ! to tine,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>for want of Tocher good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Alas! I know not what to do,</l>
+               <l>I ſtand in ſuch Deſpair;</l>
+               <l>Or where away that I ſhould go,</l>
+               <l>my Maiden-head to ware,</l>
+               <l>No marvel though my Heart be fair,</l>
+               <l>to play I dare not do't;</l>
+               <l>Unmarry'd I ſtand in ſuch Fear</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>for want of Tocher-good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>An old Maiden if that I be,</l>
+               <l>no Man will of me make;</l>
+               <l>Then great dolor will gar me die,</l>
+               <l>fra time they me forſake;</l>
+               <l>Alas! my Sorrow cannot ſlaik,</l>
+               <l>which gars my Pleaſure fade,</l>
+               <l>Alas! that I ſhould want my Maik,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>for want of Tocher-good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>My Father was a Gentle-man,</l>
+               <l>of many Lands was Laird;</l>
+               <l>He was ſo raſh in his Spending,</l>
+               <l>and all his Living clear'd.</l>
+               <l>At Cards and Dice he hath it war'd,</l>
+               <l>while it did never good;</l>
+               <l>Which gars me ſit at home unſerv'd</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>for want of Tocher-good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Theſe lordlie Lairds they by me paſs</l>
+               <l>and ſcantly do me ken:</l>
+               <l>They ſwear I am a luſty Laſs,</l>
+               <l>but Gear, quoth they, ſhe's nane:</l>
+               <l>Quoth they, it gars her ſit at Hame,</l>
+               <l>for all her gallant Weed;</l>
+               <l>Who would have her, quoth they again;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>if ſhe want Tocher-good?</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I busk, I keam, I prien, I ſtraik,</l>
+               <l>but this is all in vain;</l>
+               <l>I make my ſelf right Market like,</l>
+               <l>but nothing doth avail:</l>
+               <l>And this is ev'n the matter hail.</l>
+               <l>their Gear gars them be lov'd;</l>
+               <l>My Heart it bowdens into Bail</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>for want of Tocher-good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Though ſhe were ne'er ſo gray a May</l>
+               <l>into the ſame Countrie,</l>
+               <l>Yet Young men will her kiſs and clap,</l>
+               <l>if ſhe hath gear to gie:</l>
+               <l>A Carl's Daughter if that ſhe be,</l>
+               <l>ſome with her will conclude,</l>
+               <l>And marry her right honeſtly,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>if ſhe have Tocher-good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>This gars my Heart be like to burſt,</l>
+               <l>and break in Pieces three,</l>
+               <l>When Young men do their Cheeks oft clap,</l>
+               <l>and will not look on me.</l>
+               <l>This is the very Cauſe truly,</l>
+               <l>their Gear gars them be lov'd,</l>
+               <l>I would he had been hanged hy,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>firſt ordain'd Tocher-good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But oh, alas! if that I wiſt,</l>
+               <l>my Mind nothing ſhould had:</l>
+               <l>Then ſhould I run into all Haſte,</l>
+               <l>and chooſe ſome wanton Lad:</l>
+               <l>And yet, alas! I am ſo red,</l>
+               <l>by no means I dare do't:</l>
+               <l>No marvel though my Heart be ſad</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For want of Tocher-good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There's no Remeed but Patience,</l>
+               <l>Or elſe ly down and die:</l>
+               <l>Take Pity on us woful things,</l>
+               <l>that have no Gear to gie:</l>
+               <l>Alas! we ſeek of their Mercie,</l>
+               <l>to grant us ſome Remeed:</l>
+               <l>And take us from that doleful Day,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>ſince we want Tocher-good.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
